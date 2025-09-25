@@ -1,0 +1,11 @@
+librosa
+numpy
+scipy
+pyloudnorm
+soundfile
+matplotlib
+tqdm
+arabic-reshaper
+python-bidi
+tabulate
+seaborn
