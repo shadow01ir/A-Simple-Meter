@@ -17,5 +17,4 @@ Install the required packages using:
 python -m pip install -r requirement.txt
 
 
-this is an experimental project **
-if any errors or any songs with 0 for results please insert less tracks at one time (try 10 tracks or less).(some of the parametrs can actually be 0 please pay attention)
+
